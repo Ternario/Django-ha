@@ -1,0 +1,6 @@
+.idea/
+.vscode/
+myenv/
+.venv/
+dbConnectors/.env
+__pycache__/
